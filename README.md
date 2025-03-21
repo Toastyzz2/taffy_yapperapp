@@ -9,7 +9,7 @@ Taffy is a chatting website that Mods, Easy and simple UI, and easy copy and pas
 
 # Connections / Help:
 
-## Toastyzz's Links:
+### Toastyzz's Links:
 Mail: mailto:ethanhiggs86@gmail.com
 
 Youtube Channel: https://youtube.com/@toastyzz0
@@ -20,7 +20,7 @@ X / Twitter: https://x.com/@Toastyzz0
 
 Itch.io: https://toastyzz0.itch.io
 
-## Sharkyy's Links:
+### Sharkyy's Links:
 Youtube channel: https://www.youtube.com/@sharkyydev
 
 Page / Website: https://pagefordev.carrd.co 
